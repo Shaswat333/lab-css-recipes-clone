@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.div {
+    background-color: rgb(8, 7, 7);
+    margin: 59px;
+    margin-left: 20px;
+    border: 5px solid;
+    padding: 20px;
+    height: 300px;
+}.banner-heading {
+    height: 500px;
+    width: 100%;
+    position: relative;
+    background-image: url(../images/apple-pie.jpg);
+    background-size: 100% px;
+    background-repeat: no-repeat;
+  }

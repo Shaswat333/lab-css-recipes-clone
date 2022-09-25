@@ -7,6 +7,11 @@ html {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px
 }
-{
-  
+.banner-heading {
+  height: 500px;
+  width: 100%;
+  position: relative;
+  background-image: url(../images/soup.jpg);
+  background-size: 100% px;
+  background-repeat: no-repeat;
 }
